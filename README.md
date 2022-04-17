@@ -10,9 +10,9 @@ A place where gamers grade games.
 - Images
 - Links to videos
 - User reviews
-- User tutorials (guides)
+- User tutorials (guides)  
 
 ## How it's made
 - React Native Web frontend
-- - Hosted on github pages
+  - Hosted on github pages
 - Django backend (or maybe fastAPI?)

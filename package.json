@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  "homepage": "http://robertegj.github.io/gamegra.de",
+  "scripts": {
+      "deploy": "gh-pages -d web-build",
+      "predeploy": "expo build:web"
+  }
+}
