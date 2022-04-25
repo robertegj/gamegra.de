@@ -15,4 +15,12 @@ A place where gamers grade games.
 ## How it's made
 - React Native Web frontend
   - Hosted on github pages
-- Django backend (or maybe fastAPI?)
+- Django backend (or maybe fastAPI?)]
+
+
+## Install Dependencies / Run Server(s)
+pip3 install -r requirements.txt
+python3 manage.py runserver
+
+npm install
+npm start
