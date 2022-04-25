@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/gamegra.de/public/static/js/app.5c90f057.chunk.js",
-    "app.js.map": "/gamegra.de/public/static/js/app.5c90f057.chunk.js.map",
-    "runtime~app.js": "/gamegra.de/public/static/js/runtime~app.97ab6ce2.js",
-    "runtime~app.js.map": "/gamegra.de/public/static/js/runtime~app.97ab6ce2.js.map",
-    "static/js/2.e4e87d3c.chunk.js": "/gamegra.de/public/static/js/2.e4e87d3c.chunk.js",
-    "static/js/2.e4e87d3c.chunk.js.map": "/gamegra.de/public/static/js/2.e4e87d3c.chunk.js.map",
-    "favicon-16.png": "/gamegra.de/public/favicon-16.png",
-    "favicon-32.png": "/gamegra.de/public/favicon-32.png",
-    "favicon.ico": "/gamegra.de/public/favicon.ico",
-    "index.html": "/gamegra.de/public/index.html",
-    "manifest.json": "/gamegra.de/public/manifest.json",
-    "serve.json": "/gamegra.de/public/serve.json",
-    "static/js/2.e4e87d3c.chunk.js.LICENSE.txt": "/gamegra.de/public/static/js/2.e4e87d3c.chunk.js.LICENSE.txt"
+    "app.js": "/gamegra.de/static/js/app.5c90f057.chunk.js",
+    "app.js.map": "/gamegra.de/static/js/app.5c90f057.chunk.js.map",
+    "runtime~app.js": "/gamegra.de/static/js/runtime~app.76c2e5c7.js",
+    "runtime~app.js.map": "/gamegra.de/static/js/runtime~app.76c2e5c7.js.map",
+    "static/js/2.e4e87d3c.chunk.js": "/gamegra.de/static/js/2.e4e87d3c.chunk.js",
+    "static/js/2.e4e87d3c.chunk.js.map": "/gamegra.de/static/js/2.e4e87d3c.chunk.js.map",
+    "favicon-16.png": "/gamegra.de/favicon-16.png",
+    "favicon-32.png": "/gamegra.de/favicon-32.png",
+    "favicon.ico": "/gamegra.de/favicon.ico",
+    "index.html": "/gamegra.de/index.html",
+    "manifest.json": "/gamegra.de/manifest.json",
+    "serve.json": "/gamegra.de/serve.json",
+    "static/js/2.e4e87d3c.chunk.js.LICENSE.txt": "/gamegra.de/static/js/2.e4e87d3c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.97ab6ce2.js",
+    "static/js/runtime~app.76c2e5c7.js",
     "static/js/2.e4e87d3c.chunk.js",
     "static/js/app.5c90f057.chunk.js"
   ]
